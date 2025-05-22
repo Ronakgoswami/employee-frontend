@@ -18,7 +18,7 @@ This is the frontend of the **Employee Management System** built using **React (
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/employee-frontend.git
+git clone https://github.com/Ronakgoswami/employee-frontend.git
 cd employee-frontend
 ```
 
